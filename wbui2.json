@@ -1,42 +1,55 @@
 {
   "WBUI2": {
     "settings": {
-      "openbutton": 1,
-      "hideicon": true,
-      "hideiconafter": 10,
-      "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+      "openbutton": 0,
+      "hideicon": false,
+      "hideiconafter": 60,
+      "iconurl": "https://i.imgur.com/sUDSzlK.png",
       "disableicontext": false,
       "iconposition": 0,
       "icontextcolor": 0,
       "openonstart": true,
       "openonstartonlynewplayers": true,
-      "updateinterval": 24
+      "updateinterval": 12
     },
     "tabs": [
       {
         "layout": 1,
-        "buttontext": "<TextStyle.Orange>Bienvenue</>",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "buttontext": "Bienvenue",
+        "imageurl": "https://i.imgur.com/8JgKWE3.png",
+        "content": []
+      },
+      {
+        "layout": 1,
+        "buttontext": "Discord",
+        "imageurl": "https://i.imgur.com/bUMOSH9.png",
         "content": [
           {
-            "title": "<TextStyle.Red>Bienvenue sur NRV-ARK</>",
-            "text": "🎮 PvP x15 • Shop actif • Leaderboard • Discord\n\n<RichColor Color=\\\"0.5,0.8,1,1\\\">https://discord.gg/mghnvuvN2t</>\n\nRejoignez la résistance !"
+            "title": "Rejoignez notre communaute",
+            "text": "Sur Discord, vous trouverez :\\n- Un bot qui vous permet de gagner des points Berrys\\n- Des evenements, sondages et tirages au sort\\n\\nCliquez sur le bouton Discord en bas de l'interface pour nous rejoindre !"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "Site Web",
+        "imageurl": "https://i.imgur.com/bUMOSH9.png",
+        "content": [
+          {
+            "title": "Decouvrez tout sur notre site",
+            "text": "Sur https://nrv-ark.fr/, vous trouverez :\\n- Un systeme de points avec calendrier et votes\\n- Des box et des commandes speciales\\n- Des offres VIP\\n\\nLe site est la pour vous aider a tirer le meilleur parti de votre experience sur NRV ARK !"
           }
         ]
       }
     ],
     "links": [
       {
-        "text": "🌐 Site officiel",
-        "url": "https://nrv-ark.fr"
-      },
-      {
-        "text": "🛒 Boutique",
-        "url": "https://nrv-ark.fr/shop"
-      },
-      {
-        "text": "💬 Discord",
+        "text": "Discord",
         "url": "https://discord.gg/mghnvuvN2t"
+      },
+      {
+        "text": "Site Web",
+        "url": "https://nrv-ark.fr/"
       }
     ],
     "version": 2
