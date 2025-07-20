@@ -15,41 +15,43 @@
     "tabs": [
       {
         "layout": 1,
-        "buttontext": "Bienvenue",
+        "buttontext": "WELCOME",
         "imageurl": "https://i.imgur.com/8JgKWE3.png",
-        "content": []
-      },
-      {
-        "layout": 1,
-        "buttontext": "Discord",
-        "imageurl": "https://i.imgur.com/bUMOSH9.png",
         "content": [
           {
-            "title": "Rejoignez notre communaute",
-            "text": "Sur Discord, vous trouverez :\\n- Un bot qui vous permet de gagner des points Berrys\\n- Des evenements, sondages et tirages au sort\\n\\nCliquez sur le bouton Discord en bas de l'interface pour nous rejoindre !"
+            "title": "Welcome to NRV-ARK!",
+            "text": "Survive. Dominate. Resist.\\n\\n<TextStyle.Yellow>You're now part of a brutal world... but not alone.</>\\n\\nJoin our Discord, vote for rewards, and explore our online shop to boost your journey!"
           }
         ]
       },
       {
         "layout": 1,
-        "buttontext": "Site Web",
+        "buttontext": "SHOP",
         "imageurl": "https://i.imgur.com/bUMOSH9.png",
         "content": [
           {
-            "title": "Decouvrez tout sur notre site",
-            "text": "Sur https://nrv-ark.fr/, vous trouverez :\\n- Un systeme de points avec calendrier et votes\\n- Des box et des commandes speciales\\n- Des offres VIP\\n\\nLe site est la pour vous aider a tirer le meilleur parti de votre experience sur NRV ARK !"
+            "title": "NRV Online Shop",
+            "text": "Get your Berrys, unlock NRVBoxes, access VIPs, and support the Resistance.\\n\\n🛒 https://nrv-ark.fr/shop"
           }
         ]
       }
     ],
     "links": [
       {
-        "text": "Discord",
+        "text": "JOIN DISCORD",
         "url": "https://discord.gg/mghnvuvN2t"
       },
       {
-        "text": "Site Web",
+        "text": "WEB SITE",
         "url": "https://nrv-ark.fr/"
+      },
+      {
+        "text": "SHOP",
+        "url": "https://nrv-ark.fr/shop"
+      },
+      {
+        "text": "VOTE",
+        "url": "https://nrv-ark.fr/vote"
       }
     ],
     "version": 2
