@@ -46,12 +46,12 @@
         "url": "https://nrv-ark.fr/"
       },
       {
-        "text": "SHOP",
-        "url": "https://nrv-ark.fr/shop"
-      },
-      {
         "text": "VOTE",
         "url": "https://nrv-ark.fr/vote"
+      },
+      {
+        "text": "SHOP",
+        "url": "https://nrv-ark.fr/shop"
       }
     ],
     "version": 2
